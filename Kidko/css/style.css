@@ -608,7 +608,7 @@ img{
 .main-header .logo-box .logo{
   position: relative;
   display: inline-block;
-  padding: 26px 0px;
+  padding: 10px 0px 100px 0px;
   width: 100px;
   height: 100px;
 }
