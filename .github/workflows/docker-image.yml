@@ -19,6 +19,6 @@ jobs:
       - uses: docker/build-push-action@v6.5.0
         name: Build the Docker image
         with:
-          file: ./applications/frontend/website/Dockerfile
+          file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/futurecoders-frontend:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/futurecodersstatic-frontend:latest
