@@ -57,10 +57,7 @@
     margin-left: 30px;
   }
 
-  .main-footer .footer-bottom .right-content .footer-logo:before,
-  .activities-section .image-box .image:before{
-    display: none;
-  }
+
 
   .main-footer .footer-bottom .right-content .footer-logo{
     margin-right: 120px;
