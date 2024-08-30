@@ -613,7 +613,7 @@ img{
   height: 100px;
 }
 
-.main-header .logo-box .logo:before{
+/* .main-header .logo-box .logo:before{
   position: absolute;
   content: '';
   background: url(../images/icons/logo-shap.png);
@@ -622,7 +622,7 @@ img{
   left: -20px;
   bottom: -57px;
   background-repeat: no-repeat;
-}
+} */
 
 
 /** search-box **/
